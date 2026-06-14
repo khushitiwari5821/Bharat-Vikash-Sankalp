@@ -17,7 +17,7 @@ nav a{
 }
 .hero{
   background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),
-  url('https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=1200');
+  url('coverpage.jpeg');
   background-size:cover;
   color:white;
   padding:100px 20px;
@@ -97,4 +97,6 @@ form button{
     height:80px;
     border-radius:50%;
 }
-  
+.Bar Election{
+  text-align:center;
+}
